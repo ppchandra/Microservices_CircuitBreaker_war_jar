@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: nginx-clojure:nginx-clojure:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/nginx-clojure/nginx-clojure/unknown/nginx-clojure-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/nginx-clojure/nginx-clojure/unknown/nginx-clojure-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/nginx-clojure/nginx-clojure/unknown/nginx-clojure-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
